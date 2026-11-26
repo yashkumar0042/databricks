@@ -1,10 +1,5 @@
 # **Module 4: Delta Lake Deep Dive**
 
-### **Databricks — Beginner to Advanced | Professional Training Notes**
-
-Since your students have around 15 years of IT experience but are new to Databricks, the training should focus not only on syntax but also on **architecture, internal implementation, design decisions, performance, reliability and real-world enterprise use cases**.
-
-Relate Delta Lake concepts to technologies they may already understand, such as relational databases, distributed systems, database transaction logs, object storage, ETL pipelines and data warehouses.
 
 ## **1. Module overview**
 
